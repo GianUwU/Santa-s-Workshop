@@ -1,0 +1,14 @@
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.cache
+*.mdb
+*.opendb
+*.VC.db
+*.vscode/
